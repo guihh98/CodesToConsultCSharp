@@ -1,0 +1,1 @@
+MessageBox.Show(this, variaveisPublicas.mensagem.ToString(), "Erro" + variaveisPublicas.errorCode.ToString(), MessageBoxButtons.OK, MessageBoxIcon.Error, MessageBoxDefaultButton.Button1, 0, "mspaint.chm", "mspaint.chm::/paint_brush.htm");
